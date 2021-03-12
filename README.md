@@ -1,5 +1,7 @@
 # CBB_Win_Prediction
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JoshuaMajano/CBB_Win_Prediction/blob/main/CBB%20Win%20Prediction.ipynb)
+
 Included in repo:
   1) Kaggle dataset
   2) Jupyter notebook with analysis
