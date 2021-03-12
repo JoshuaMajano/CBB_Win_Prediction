@@ -1,5 +1,11 @@
 # CBB_Win_Prediction
 
+Included in repo:
+  1) Kaggle dataset
+  2) Jupyter notebook with analysis
+  3) Powerpoint slides of presentation
+
+
 Link to presentation: https://youtu.be/5k9ES-vE-hc
 
 I am Joshua Majano, a student in the Master's of Data Science program at the Univeristy of San Francisco and I was curious about how possible it is to predict the number of wins for a Division I College Basketball team using only their stat numbers for the season.
