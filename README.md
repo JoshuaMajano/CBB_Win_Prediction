@@ -8,6 +8,7 @@ Included in repo:
 
 Link to presentation: https://youtu.be/5k9ES-vE-hc
 
+### Overview
 I am Joshua Majano, a student in the Master's of Data Science program at the Univeristy of San Francisco and I was curious about how possible it is to predict the number of wins for a Division I College Basketball team using only their stat numbers for the season.
 
 The data itself comes from Kaggle and is included in this repository. It includes data from ~353 teams spanning the 2015-2019 seasons with 24 columns that include the team stats for the season as well school name, conference they play in, and their seeding for the postseason. For this project, I only considered the columns that had the team stats, and not the school name, conference, or anything that could be related to the postseason as not every team had data for the postseason or their seeding. For as much as data is now an instrumental part of sports, I wanted to test how accurate of a win prediction we can get from just the team stats without knowing the school or if they made the postseason. Also, considering all of the different stats out there, I was also curious to see if we can highlight any specific features that stand out and might have the most predictive power to win prediction.
